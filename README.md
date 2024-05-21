@@ -49,7 +49,7 @@
 
 I designed this project to help predict house prices in Edmonton, by leveraging historical data and machine learning techniques, more specifically a ridge regression model . 
 
-The primary objectives were to forecast future prices through historical features and inflation adjustments. 
+The primary objectives was to forecast house future prices through historical features and inflation adjustments. 
 To better improve this model, I could add more features such as proximity to school parks etc and add some interaction features that could show show a more complex relationship and effect on house prices. Furthermore, with more features, I could utilize Gradient Boosting Machines to capture more complex relationships.  
 ## Built With
 
