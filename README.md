@@ -14,7 +14,7 @@
     <a href="https://github.com/OgSamu/Edmonton-Property-Valuation"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/OgSamu/Edmonton-Property-Valuation">View Demo</a>
+    <a href="[https://github.com/OgSamu/Edmonton-Property-Valuation](https://youtu.be/3_5aeFjkNSw)">View Demo</a>
   </p>
 </div>
 
