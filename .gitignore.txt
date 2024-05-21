@@ -1,0 +1,58 @@
+# Python
+*.pyc
+__pycache__/
+instance/
+.pytest_cache/
+*.pyo
+*.pyd
+*.pydistutils.cfg
+*.egg-info/
+.env
+
+# Flask
+venv/
+.env
+*.sqlite3
+*.db
+.DS_Store
+
+# Logs
+logs/
+*.log
+*.out
+*.err
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Heroku
+/.heroku
+
+# VS Code
+.vscode/
+
+# Next.js
+.next/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Tailwind CSS
+tailwind.config.js
+postcss.config.js
+
+# Build directories
+build/
+dist/
+tmp/
+temp/
